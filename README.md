@@ -11,3 +11,6 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
 
 # What is this repo
 I will create a 3D printed case for this model, post here some code for it. We will see...
+
+# Further notes:
+- The schematic is 1:1 with the oryginal watchy, the creator said that the only diffrence is usb-c. We have the board view so it's not a problem
