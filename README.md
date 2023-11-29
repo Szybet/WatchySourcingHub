@@ -16,6 +16,8 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
 - The screen is glued in. It seems that the screen could be detached with a heat gun - I haven't tried, won't risk it
 - The buttons are horrible to press without the case and they all sound and behave diffrently. With a case where the click area is bigger it's fine
 - No confirmation yet if it would fit inside original watchy cases. Grab the dxf file and compare dimensions I quess
+- It's the V1 of the watchy so the battery life will be worse
+- The battery that cames with the device could be better, get a replacement
 - GSR firmware works fine so I think it's fully compatible. Here is a list of firmwares I like:
   -  https://github.com/GuruSR/Watchy_GSR
   -  https://github.com/Szybet/Watchy_Hard_Firmware - Mine ;p
