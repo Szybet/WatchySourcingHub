@@ -1,6 +1,15 @@
 # E-Watch-FOSS
 A clone of the Watchy with USB-C, sold mostly on aliexpress. Now thanks to the kindness of the creator and my relentless requests - it's open source
 
+<b>read all the text before making the decission. The FAQ is the most important</b>
+
+<p float="left" align="middle">
+  <img src="/images/01space.png" width="300" height="300"/>
+  <img src="/images/case.png" width="300" height="300"/> 
+  <img src="/images/pcb.png" width="300" height="300"/>
+</p>
+<sub>I'm only describing the one that has 01Space on it.</sub>
+<br/><br/>
 I have received the schematics and the permission to share it ( I know it's a open source fork, but I'm kind anyway ) from the oryginal creator:
 - Here is their Github repo for the "E-watch". There is nothing really there ;) - https://github.com/01Space/E-Watch
 - Their aliexpress store: https://pl.aliexpress.com/store/912632218
@@ -18,6 +27,7 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
 - No confirmation yet if it would fit inside original watchy cases. Grab the dxf file and compare dimensions I quess
 - It's the V1 of the watchy so the battery life will be worse
 - The battery that cames with the device could be better, get a replacement
+- PCBDOC can be imported into kicad without any converters
 - GSR firmware works fine so I think it's fully compatible. Here is a list of firmwares I like:
   -  https://github.com/GuruSR/Watchy_GSR
   -  https://github.com/Szybet/Watchy_Hard_Firmware - Mine ;p
@@ -25,3 +35,21 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
       -  https://github.com/Prokuon/watchy-starfield - Looks awesome
       - https://github.com/OregonJunco/Watchytchi
       - https://github.com/NiklasNeugebauer/minty-os
+
+# 3D printed case
+I have created a 3D printed case for it which uses a bigger battery than other cases
+
+![image](https://github.com/Szybet/E-Watch-FOSS/assets/53944559/471df6ef-0f95-44ad-8bc7-2b0d6ecb533a)
+
+Here posted on printables:
+
+https://www.printables.com/model/664145-watchy-usb-c-case-with-a-bigger-battery
+
+**It's designed to be printed with 0.25 Nozzle**
+# FAQ
+Q: Can I trust the seller? Won't they scam me?
+
+A: **I do not know.** The one seller I'm linking provided me with the schematics, I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. 
+
+### But
+They changed the photos and the description of the item. They say now it's 2.0 version with microusb so idk? **Your decission, your risk. I'm only happy with my device and sharing my happiness. Nothing more**.
