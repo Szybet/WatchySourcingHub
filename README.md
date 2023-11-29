@@ -9,8 +9,17 @@ I have received the schematics and the permission to share it ( I know it's a op
 # Why?...
 A few thousand people ordered on crowdfund and now their shippind date is shifting and shifting again and again. On mouser 1.5k people are waiting. Pi hut doesn't ship anywhere really ( Like couldn't you just don't ship the battery, we could buy it locally... ). Obviously I don't blame anyone. I understand the problems with supply chains in the recent years. But it's bad as you see to get it. That's why i ~~harrased ;)~~ asked all sellers of this clone for half a month to release the schematics, until I found the original creator. Is it moral to use this clone? To my quick google search, yes until the schematic is shared + taking in mind all the issues in actually getting the oryginal watchy...
 
-# What is this repo
-I will create a 3D printed case for this model, post here some code for it. We will see...
-
-# Further notes:
+# Further notes that you should know before you buy:
 - The schematic is 1:1 with the oryginal watchy, the creator said that the only diffrence is usb-c. We have the board view so it's not a problem
+- The components are not original but they work without issues. Looking for datasheets took a while but they are here: https://szybet.github.io/E-Watch-FOSS/hardware/watchy_usbc_chips_and_datasheets.html
+- It has a blue charging LED, cool
+- The screen is glued in. It seems that the screen could be detached with a heat gun - I haven't tried, won't risk it
+- The buttons are horrible to press without the case and they all sound and behave diffrently. With a case where the click area is bigger it's fine
+- No confirmation yet if it would fit inside original watchy cases. Grab the dxf file and compare dimensions I quess
+- GSR firmware works fine so I think it's fully compatible. Here is a list of firmwares I like:
+  -  https://github.com/GuruSR/Watchy_GSR
+  -  https://github.com/Szybet/Watchy_Hard_Firmware - Mine ;p
+  -  https://github.com/Prokuon/watchy-starfield - Looks awesome
+  -  And here are some I didn't tested but people sended over when I asked on the discord server
+    - https://github.com/OregonJunco/Watchytchi
+    - https://github.com/NiklasNeugebauer/minty-os
