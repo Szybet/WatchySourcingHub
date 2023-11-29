@@ -19,7 +19,7 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
 - GSR firmware works fine so I think it's fully compatible. Here is a list of firmwares I like:
   -  https://github.com/GuruSR/Watchy_GSR
   -  https://github.com/Szybet/Watchy_Hard_Firmware - Mine ;p
-  -  https://github.com/Prokuon/watchy-starfield - Looks awesome
     - And here are some I didn't tested but people sended over when I asked on the discord server
+      -  https://github.com/Prokuon/watchy-starfield - Looks awesome
       - https://github.com/OregonJunco/Watchytchi
       - https://github.com/NiklasNeugebauer/minty-os
