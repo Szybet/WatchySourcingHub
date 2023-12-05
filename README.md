@@ -52,4 +52,12 @@ Q: Can I trust the seller? Won't they scam me?
 A: **I do not know.** The one seller I'm linking provided me with the schematics, I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. 
 
 ### But
-They changed the photos and the description of the item. They say now it's 2.0 version with microusb so idk? **Your decission, your risk. I'm only happy with my device and sharing my happiness. Nothing more**. I asked the seller about this, now I'm waiting
+They changed the photos and the description of the item. They say now it's 2.0 version with microusb so idk? **Your decission, your risk. I'm only happy with my device and sharing my happiness. Nothing more**. I asked the seller about this ~~now I'm waiting~~
+
+I received an answer
+- The watchy has been updated to 2.0, now the battery life lasts longer
+- Buttons are better quality
+- the strap has been replaced with a better one too
+- But it's micro usb again which means it should better fit original cases ( its still not official if it fits in official cases, but propably )
+
+We will see. I will archive this page and make a similar one for the 2.0 Version
