@@ -28,6 +28,7 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
 - It's the V1 of the watchy so the battery life will be worse
 - The battery that cames with the device could be better, get a replacement
 - PCBDOC can be imported into kicad without any converters
+- The PCB is solid, no risk of breaking it where the screws go
 - GSR firmware works fine so I think it's fully compatible. Here is a list of firmwares I like:
   -  https://github.com/GuruSR/Watchy_GSR
   -  https://github.com/Szybet/Watchy_Hard_Firmware - Mine ;p
