@@ -1,64 +1,47 @@
+The USB-C watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it.
+
 # E-Watch-FOSS
-A clone of the Watchy with USB-C, sold mostly on aliexpress. Now thanks to the kindness of the creator and my relentless requests - it's open source
-
-<b>read all the text before making the decission. The FAQ is the most important</b>
-
-<p float="left" align="middle">
-  <img src="/images/01space.png" width="300" height="300"/>
-  <img src="/images/case.png" width="300" height="300"/> 
-  <img src="/images/pcb.png" width="300" height="300"/>
-</p>
-<sub>I'm only describing the one that has 01Space on it.</sub>
-<br/><br/>
-I have received the schematics and the permission to share it ( I know it's a open source fork, but I'm kind anyway ) from the oryginal creator:
+A clone of the Watchy, sold on aliexpress.
 - Here is their Github repo for the "E-watch". There is nothing really there ;) - https://github.com/01Space/E-Watch
 - Their aliexpress store: https://pl.aliexpress.com/store/912632218
-- And the watchy on their store: https://pl.aliexpress.com/item/1005005209927318.html ( It has the least ammount of description among other stores, but it's the original creator ;o )
+- And the watchy on their store: https://pl.aliexpress.com/item/1005005209927318.html (It's the original manufacturer)
+
+<p float="left" align="middle">
+  <img src="/images/img1.jpg" width="300" height="300"/>
+  <img src="/images/img2.jpg" width="300" height="300"/>
+  <img src="/images/img3.jpg" width="300" height="300"/>
+  <img src="/images/img4.jpg" width="300" height="300"/>
+  <img src="/images/img5.jpg" width="300" height="300"/>
+  <img src="/images/img6.jpg" width="300" height="300"/>
+</p>
 
 # Why?...
 A few thousand people ordered on crowdfund and now their shippind date is shifting and shifting again and again. On mouser 1.5k people are waiting. Pi hut doesn't ship anywhere really ( Like couldn't you just don't ship the battery, we could buy it locally... ). Obviously I don't blame anyone. I understand the problems with supply chains in the recent years. But it's bad as you see to get it. That's why i ~~harrased ;)~~ asked all sellers of this clone for half a month to release the schematics, until I found the original creator. Is it moral to use this clone? To my quick google search, yes until the schematic is shared + taking in mind all the issues in actually getting the oryginal watchy...
 
+This statement was true in october 2023 and is still true in january 2024🥴
+
+I wasn't able to get a original watchy as I was hunting for it from 2021 so...
+
 # Further notes that you should know before you buy:
-- The schematic is 1:1 with the oryginal watchy, the creator said that the only diffrence is usb-c. We have the board view so it's not a problem
-- The components are not original but they work without issues. Looking for datasheets took a while but they are here: https://szybet.github.io/E-Watch-FOSS/hardware/watchy_usbc_chips_and_datasheets.html
-- It has a blue charging LED, cool
-- The screen is glued in. It seems that the screen could be detached with a heat gun - I haven't tried, won't risk it
-- The buttons are horrible to press without the case and they all sound and behave diffrently. With a case where the click area is bigger it's fine
-- No confirmation yet if it would fit inside original watchy cases. Grab the dxf file and compare dimensions I quess
-- It's the V1 of the watchy so the battery life will be worse
-- The battery that cames with the device could be better, get a replacement
-- PCBDOC can be imported into kicad without any converters
-- The PCB is solid, no risk of breaking it where the screws go
-- GSR firmware works fine so I think it's fully compatible. Here is a list of firmwares I like:
-  -  https://github.com/GuruSR/Watchy_GSR
-  -  https://github.com/Szybet/Watchy_Hard_Firmware - Mine ;p
-    - And here are some I didn't tested but people sended over when I asked on the discord server
-      -  https://github.com/Prokuon/watchy-starfield - Looks awesome
-      - https://github.com/OregonJunco/Watchytchi
-      - https://github.com/NiklasNeugebauer/minty-os
+- The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones
+- In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked `¯\_(ツ)_/¯`
+- The screen is already glued in and has a foil that can be taken off. cool.
+- As you can see in the images - It comes in a mini pcb based case that it's screwed in. Even with the screw holes, the PCB is solid. You can use that case or 3D print one like I did.
+- It also comes with a very good looking 200mAh battery and a strap. cool.
+- It's micro usb now, not USB-C how it was before ;)
+- The buttons are now way better than in the previous version. More clicky but more noisy. Still better
+- This seller doesn't ship to germany. But they are other that ship (Very fast shipping it was) to germany but have at a higher price
+- It comes with a micro usb cable too!
 
-# 3D printed case
-I have created a 3D printed case for it which uses a bigger battery than other cases
+# Some firmwares for the watchy that I like
+- https://github.com/Michal-Szczepaniak/TinyWatchy
+- https://github.com/Szybet/InkWatchy - Mine ;p
+- https://github.com/GuruSR/Watchy_GSR - Most advanced but the codebase... motivated me to write mine
+- https://github.com/Prokuon/watchy-starfield - Looks awesome
+- https://github.com/OregonJunco/Watchytchi
+- https://github.com/NiklasNeugebauer/minty-os
 
-![image](https://github.com/Szybet/E-Watch-FOSS/assets/53944559/471df6ef-0f95-44ad-8bc7-2b0d6ecb533a)
-
-Here posted on printables:
-
-https://www.printables.com/model/664145-watchy-usb-c-case-with-a-bigger-battery
-
-**It's designed to be printed with 0.25 Nozzle**
 # FAQ
 Q: Can I trust the seller? Won't they scam me?
 
-A: **I do not know.** The one seller I'm linking provided me with the schematics, I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. 
-
-### But
-They changed the photos and the description of the item. They say now it's 2.0 version with microusb so idk? **Your decission, your risk. I'm only happy with my device and sharing my happiness. Nothing more**. I asked the seller about this ~~now I'm waiting~~
-
-I received an answer
-- The watchy has been updated to 2.0, now the battery life lasts longer
-- Buttons are better quality
-- the strap has been replaced with a better one too
-- But it's micro usb again which means it should better fit original cases ( its still not official if it fits in official cases, but propably )
-
-We will see. I will archive this page and make a similar one for the 2.0 Version
+A: **I do not know.** Now I'm talking about the one seller I'm linking. I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. Many other people were very happy with their watch. They praised the seller for communication that it was better than SQFMI. When they changed to the 2.0 version from the USB-C one, the communication and tranfer was clear. No one was dissatisfied.
