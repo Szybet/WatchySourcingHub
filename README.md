@@ -32,6 +32,7 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 - The buttons are now way better than in the previous version. More clicky but more noisy. Still better
 - This seller doesn't ship to germany. But they are other that ship (Very fast shipping it was) to germany but have at a higher price
 - It comes with a micro usb cable too!
+- **The 2.0 version doesn't work without a battery - the RTC reading are corrupted**
 
 # Some firmwares for the watchy that I like
 - https://github.com/Michal-Szczepaniak/TinyWatchy
