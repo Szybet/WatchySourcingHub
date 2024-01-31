@@ -42,6 +42,10 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 - https://github.com/OregonJunco/Watchytchi
 - https://github.com/NiklasNeugebauer/minty-os
 
+# 3D printed case
+https://www.printables.com/model/745711-watchy-invader-remix
+Reuben designed it from the Watchy discord server, thanks!
+
 # FAQ
 Q: Can I trust the seller? Won't they scam me?
 
