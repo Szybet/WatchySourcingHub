@@ -22,9 +22,8 @@ This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
-**All of those issues, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
-
 # Further notes that you should know before you buy:
+**All of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
 - The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones
 - In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked `¯\_(ツ)_/¯`
 - The screen is already glued in and has a foil that can be taken off. cool.
@@ -41,7 +40,7 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 - The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
 
 # For people who are not tech savvy
-Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones ;) Contact below
+Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones (I could also propably 3D print you a case...) Contact below :)
 
 # Some firmwares for the watchy that I like
 - https://github.com/Michal-Szczepaniak/TinyWatchy
