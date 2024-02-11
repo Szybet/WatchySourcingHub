@@ -43,12 +43,14 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones (I could also propably 3D print you a case...) Contact below :)
 
 # Some firmwares for the watchy that I like
+### Firmwares that are "the new generation?"
 - https://github.com/Michal-Szczepaniak/TinyWatchy
 - https://github.com/Szybet/InkWatchy - Mine ;p
 - https://github.com/GuruSR/Watchy_GSR - Most advanced but the codebase... motivated me to write mine
+- maybe this one too, not sure: https://github.com/NiklasNeugebauer/minty-os
+### Other
 - https://github.com/Prokuon/watchy-starfield - Looks awesome
 - https://github.com/OregonJunco/Watchytchi
-- https://github.com/NiklasNeugebauer/minty-os
 
 # 3D printed case
 https://www.printables.com/model/745711-watchy-invader-remix
