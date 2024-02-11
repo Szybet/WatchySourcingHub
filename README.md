@@ -22,6 +22,8 @@ This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
+**All of those issues, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
+
 # Further notes that you should know before you buy:
 - The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones
 - In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked `¯\_(ツ)_/¯`
@@ -32,8 +34,14 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 - The buttons are now way better than in the previous version. More clicky but more noisy. Still better
 - This seller doesn't ship to germany. But they are other that ship (Very fast shipping it was) to germany but have at a higher price
 - It comes with a micro usb cable too!
-- **The 2.0 version doesn't work without a battery - the RTC reading are corrupted**
 - In my experience, the screen ghosts in extreme temperatures - arround 0 or 50 degree C it's bad - maybe I'm not sure about the cold part
+
+# Things to know when coding the watch
+- The 2.0 version doesn't work without a battery - the RTC reading are corrupted. Just connect the battery.
+- The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
+
+# For people who are not tech savvy
+Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones ;) Contact below
 
 # Some firmwares for the watchy that I like
 - https://github.com/Michal-Szczepaniak/TinyWatchy
@@ -51,3 +59,8 @@ Reuben designed it from the Watchy discord server, thanks!
 Q: Can I trust the seller? Won't they scam me?
 
 A: **I do not know.** Now I'm talking about the one seller I'm linking. I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. Many other people were very happy with their watch. They praised the seller for communication that it was better than SQFMI. When they changed to the 2.0 version from the USB-C one, the communication and tranfer was clear. No one was dissatisfied.
+
+# Contact
+for any questions, you can create a github issue here or catch me on:
+- Inkbox OS [Matrix space](https://matrix.to/#/#inkbox-os-project:matrix.org) or [Discord server](https://discord.com/invite/uSWtWbY23m)
+- [Watchy discord community](https://discord.gg/ZXDegGV8E7)
