@@ -31,7 +31,7 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 - It also comes with a very good looking 200mAh battery and a strap. cool.
 - It's micro usb now, not USB-C how it was before ;)
 - The buttons are now way better than in the previous version. More clicky but more noisy. Still better
-- **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTCHLAND 🇩🇪🇩🇪🇩🇪** This seller doesn't ship to germany. But there are other that ship (Very fast shipping it was) to germany but have at a higher price **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTCHLAND 🇩🇪🇩🇪🇩🇪** <sub>If I see one more guy complaining they don't ship to germany I will not hesitate to steal your Bratwurst</sub>
+- **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** This seller doesn't ship to germany. But there are other that ship (Very fast shipping it was) to germany but have at a higher price **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** <sub>If I see one more guy complaining they don't ship to germany I will not hesitate to steal your Bratwurst</sub>
 - It comes with a micro usb cable too!
 - In my experience, the screen ghosts in extreme temperatures - arround 0 or 50 degree C it's bad - maybe I'm not sure about the cold part
 
