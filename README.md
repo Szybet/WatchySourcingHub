@@ -52,6 +52,8 @@ Don't worry! You can either learn, ask for help in the communities I listed belo
 ### Other
 - https://github.com/Prokuon/watchy-starfield - Looks awesome
 - https://github.com/OregonJunco/Watchytchi
+### Other other
+- https://github.com/Szybet/watchy-scom - For lazy people
 
 # 3D printed case
 https://www.printables.com/model/745711-watchy-invader-remix
