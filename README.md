@@ -1,11 +1,16 @@
-The USB-C watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it.
+The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it.
 
-# E-Watch-FOSS
-A clone of the Watchy, sold on aliexpress.
-- Here is their Github repo for the "E-watch". There is nothing really there ;) - https://github.com/01Space/E-Watch
-- Their aliexpress store: https://pl.aliexpress.com/store/912632218
-- And the watchy on their store: https://pl.aliexpress.com/item/1005005209927318.html (It's the original manufacturer)
-
+# WatchySourcingHub
+A clone of the Watchy, sold on various platforms from probably various manufacturers.
+- Aliexpress seller, the first one that appeared, the most trusted in my opinion (The most people buught from him)
+  - Here is their Github repo for the "E-watch". There is nothing really there ;) - https://github.com/01Space/E-Watch
+  - Their aliexpress store: https://pl.aliexpress.com/store/912632218
+  - And the watchy on their store: https://pl.aliexpress.com/item/1005005209927318.html (It's the original manufacturer, others on Ali probably resell his watchy)
+- Banggood
+  - No one yet bought from him
+  - [A horrible long link](https://usa.banggood.com/Watchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html?af_force_deeplink=true&tags=direct&source_caller=api&pid=direct&is_retargeting=true&shortlink=ecydp3md&af_ad=-&deep_link_value=https%3A%2F%2Fm.banggood.com%2FWatchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html%3Futm_source%3Ddirect%26utm_medium%3Dnone%26utm_content%3D-%26utm_campaign%3Dnone_pps_copy&af_channel=none&c=-&cur_warehouse=CN)
+- Shopee
+  - [A horrible link, I can't change the language from vietnamese](https://shopee.vn/product/936949083/25811373902?d_id=605f0&uls_trackid=4vh4705i000v)
 <p float="left" align="middle">
   <img src="/images/img1.jpg" width="300" height="300"/>
   <img src="/images/img2.jpg" width="300" height="300"/>
@@ -22,6 +27,8 @@ This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
+**The rest of the repo describes the aliexpress watchy, but I quess they are the same**
+
 # Further notes that you should know before you buy:
 **All of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
 - The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones
@@ -37,7 +44,8 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
 # Things to know when coding the watch
 - The 2.0 version doesn't work without a battery - the RTC reading are corrupted. Just connect the battery.
-- The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
+  - The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
+  - When USB is connected the RTC drifts in a non linear way - that's horrible, my solution to that is connect to wifi when charging and sync NTP a few minutes
 
 # For people who are not tech savvy
 Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones (I could also propably 3D print you a case...) Contact below :)
