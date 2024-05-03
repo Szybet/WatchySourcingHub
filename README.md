@@ -31,7 +31,7 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
 # Further notes that you should know before you buy:
 **All of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
-- The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones
+- ~~The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones~~ Well now there is a USBC 2.0 version. I quess, logically it's not compabitable with SQFMI cases
 - In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked `¯\_(ツ)_/¯`
 - The screen is already glued in and has a foil that can be taken off. cool.
 - As you can see in the images - It comes in a mini pcb based case that it's screwed in. Even with the screw holes, the PCB is solid. You can use that case or 3D print one like I did.
