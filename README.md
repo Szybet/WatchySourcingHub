@@ -10,6 +10,7 @@ A clone of the Watchy, sold on various platforms from probably various manufactu
   - No one yet bought from him
   - [A horrible long link](https://usa.banggood.com/Watchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html?af_force_deeplink=true&tags=direct&source_caller=api&pid=direct&is_retargeting=true&shortlink=ecydp3md&af_ad=-&deep_link_value=https%3A%2F%2Fm.banggood.com%2FWatchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html%3Futm_source%3Ddirect%26utm_medium%3Dnone%26utm_content%3D-%26utm_campaign%3Dnone_pps_copy&af_channel=none&c=-&cur_warehouse=CN)
 - Shopee
+  - No one bought it too
   - [A horrible link, I can't change the language from vietnamese](https://shopee.vn/product/936949083/25811373902?d_id=605f0&uls_trackid=4vh4705i000v)
 <p float="left" align="middle">
   <img src="/images/img1.jpg" width="300" height="300"/>
@@ -26,6 +27,8 @@ A few thousand people ordered on crowdfund and now their shippind date is shifti
 This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
+
+**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it. Let's say it loud, SQFMI is a scammer.**
 
 **The rest of the repo describes the aliexpress watchy, but I quess they are the same**
 
