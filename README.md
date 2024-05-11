@@ -22,13 +22,13 @@ A clone of the Watchy, sold on various platforms from probably various manufactu
 </p>
 
 # Why?...
-A few thousand people ordered on crowdfund and now their shippind date is shifting and shifting again and again. On mouser 1.5k people are waiting. Pi hut doesn't ship anywhere really ( Like couldn't you just don't ship the battery, we could buy it locally... ). Obviously I don't blame anyone. I understand the problems with supply chains in the recent years. But it's bad as you see to get it. That's why i ~~harrased ;)~~ asked all sellers of this clone for half a month to release the schematics, until I found the original creator. Is it moral to use this clone? To my quick google search, yes until the schematic is shared + taking in mind all the issues in actually getting the original watchy...
+A few thousand people ordered on crowdfund and now their shippind date is shifting and shifting again and again. On mouser 1.5k people are waiting. Pi hut doesn't ship anywhere really ( Like couldn't you just don't ship the battery, we could buy it locally... ). Obviously I don't blame anyone. I understand the problems with supply chains in the recent years. But the situation is and was bad, just bad.
 
 This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
-**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it. Let's say it loud, SQFMI is a scammer.**
+**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it.** He is not a scammer because he didn't run away with the money and after 2 years he cleared up the situation a bit, but the pain remains.
 
 **The rest of the repo describes the aliexpress watchy, but I quess they are the same**
 
