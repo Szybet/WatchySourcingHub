@@ -30,6 +30,10 @@ I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
 **That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it.** He is not a scammer because he didn't run away with the money and after 2 years he cleared up the situation a bit, but the pain remains.
 
+SQFMI about the whole situation:
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/1379433e-449f-464c-9b52-875d11787fc6)
+
 **The rest of the repo describes the aliexpress watchy, but I quess they are the same**
 
 # Further notes that you should know before you buy:
