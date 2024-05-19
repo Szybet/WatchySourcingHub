@@ -34,7 +34,7 @@ SQFMI about the whole situation:
 
 ![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/1379433e-449f-464c-9b52-875d11787fc6)
 
-**The rest of the repo describes the aliexpress watchy, but I quess they are the same**
+**The rest of the repo describes the aliexpress micro USB 2.0 watchy. Currently the seller sells USBC 2.0 Watchy, but I quess they are the same**
 
 # Further notes that you should know before you buy:
 **All of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
