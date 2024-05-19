@@ -12,6 +12,8 @@ A clone of the Watchy, sold on various platforms from probably various manufactu
 - Shopee
   - No one bought it too
   - [A horrible link, I can't change the language from vietnamese](https://shopee.vn/product/936949083/25811373902?d_id=605f0&uls_trackid=4vh4705i000v)
+- Amazon
+  - [Interesting brand name?](https://www.amazon.ca/LAMELLIS-Bluetooth-Programmable-Electronic-Components/dp/B0D4D8F5KL) Still probably the same manufacturer
 <p float="left" align="middle">
   <img src="/images/img1.jpg" width="300" height="300"/>
   <img src="/images/img2.jpg" width="300" height="300"/>
