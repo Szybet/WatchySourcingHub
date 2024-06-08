@@ -59,7 +59,9 @@ Don't worry! You can either learn, ask for help in the communities I listed belo
 
 # Some firmwares for the watchy that I like
 ### Firmwares that are "the new generation?"
-<sub>Using other firmwares than these 4 will get you problems, these are the newest written ones, they use **platformio, *Don't use arduino IDE. Use only platformio.***</sub>
+
+Using other firmwares than these 4 will get you problems (most probably), these are the newest written ones
+
 - https://github.com/Michal-Szczepaniak/TinyWatchy
 - https://github.com/Szybet/InkWatchy - Mine, many unique features, the most configurable one
 - https://github.com/GuruSR/Watchy_GSR - Has many features that you would expect from a smart watch, but the codebase... motivated me to write mine
@@ -71,6 +73,7 @@ Don't worry! You can either learn, ask for help in the communities I listed belo
 - https://github.com/Szybet/watchy-scom - For lazy people
 
 # Some 3D printed cases
+- **Use platformio. Don't use arduino IDE. 90% of issues on the Watchy server are solved by using platformio. Not only that, arduino ide compiling is slower.**
 - https://www.printables.com/model/745711-watchy-invader-remix - Reuben designed it from the Watchy discord server, thanks! Some users reported that it works with USB-C and micro usb. This case is really thick
 - https://www.printables.com/model/664145-watchy-10-usb-c-case-with-a-bigger-battery - By me, Szybet - for the Watchy 1.0 USB-C. You would need to adjust it for your new 2.0 version
 - https://www.printables.com/model/906093-watchy-flat-case - By me too, the flattest watchy, for the micro usb version
