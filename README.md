@@ -71,9 +71,12 @@ Don't worry! You can either learn, ask for help in the communities I listed belo
 ### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
 
-# 3D printed case
-https://www.printables.com/model/745711-watchy-invader-remix
-Reuben designed it from the Watchy discord server, thanks!
+# Some 3D printed cases
+- https://www.printables.com/model/745711-watchy-invader-remix - Reuben designed it from the Watchy discord server, thanks! Some users reported that it works with USB-C and micro usb. This case is really thick
+- https://www.printables.com/model/664145-watchy-10-usb-c-case-with-a-bigger-battery - By me, Szybet - for the Watchy 1.0 USB-C. You would need to adjust it for your new 2.0 version
+- https://www.printables.com/model/906093-watchy-flat-case - By me too, the flattest watchy, for the micro usb version
+- https://www.printables.com/model/503282-watchy-case-minty - Minty case by minty
+- https://www.printables.com/model/906117-watchy-kit-case - By me, slimmer minty version
 
 # FAQ
 Q: Can I trust the seller? Won't they scam me?
