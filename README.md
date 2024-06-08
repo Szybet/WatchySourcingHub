@@ -14,11 +14,11 @@ A clone of the Watchy, sold on various platforms from probably various sellers, 
   - [A horrible link, I can't change the language from vietnamese](https://shopee.vn/product/936949083/25811373902?d_id=605f0&uls_trackid=4vh4705i000v)
 
 <p float="left" align="middle">
-  <img src="/images/img1.jpg" width="300" height="300"/>
-  <img src="/images/img2.jpg" width="300" height="300"/>
-  <img src="/images/img3.jpg" width="300" height="300"/>
-  <img src="/images/img4.jpg" width="300" height="300"/>
-  <img src="/images/img5.jpg" width="300" height="300"/>
+  <img src="/images/imgc1.jpg" width="300" height="300"/>
+  <img src="/images/imgc2.jpg" width="300" height="300"/>
+  <img src="/images/imgc3.jpg" width="300" height="300"/>
+  <img src="/images/imgc4.jpg" width="300" height="300"/>
+  <img src="/images/imgc5.jpg" width="300" height="300"/>
 </p>
 
 # Why?...
