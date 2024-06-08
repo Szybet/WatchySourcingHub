@@ -1,7 +1,7 @@
-The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it.
+The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it. the USB-C 2.0 version that is currently sold
 
 # WatchySourcingHub
-A clone of the Watchy, sold on various platforms from probably various manufacturers.
+A clone of the Watchy, sold on various platforms from probably various sellers, but the manufacturer is probably the same.
 - Aliexpress seller, the first one that appeared, the most trusted in my opinion (The most people buught from him)
   - Here is their Github repo for the "E-watch". There is nothing really there ;) - https://github.com/01Space/E-Watch
   - Their aliexpress store: https://pl.aliexpress.com/store/912632218
@@ -12,8 +12,7 @@ A clone of the Watchy, sold on various platforms from probably various manufactu
 - Shopee
   - No one bought it too
   - [A horrible link, I can't change the language from vietnamese](https://shopee.vn/product/936949083/25811373902?d_id=605f0&uls_trackid=4vh4705i000v)
-- Amazon
-  - [Interesting brand name?](https://www.amazon.ca/LAMELLIS-Bluetooth-Programmable-Electronic-Components/dp/B0D4D8F5KL) Still probably the same manufacturer
+
 <p float="left" align="middle">
   <img src="/images/img1.jpg" width="300" height="300"/>
   <img src="/images/img2.jpg" width="300" height="300"/>
@@ -30,31 +29,31 @@ This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
-**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it.** He is not a scammer because he didn't run away with the money and after 2 years he cleared up the situation a bit, but the pain remains.
+**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it.** 
+
+This conversation was heated up. Later we concluded that SQFMI is not a scammer because he didn't run away with the money and after 2 years he cleared up the situation a bit, but the pain remains.
 
 SQFMI about the whole situation:
 
 ![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/1379433e-449f-464c-9b52-875d11787fc6)
 
-**The rest of the repo describes the aliexpress micro USB 2.0 watchy. Currently the seller sells USBC 2.0 Watchy, but I quess they are the same**
+**The rest of the repo describes the aliexpress micro USB 2.0 watchy. Currently the seller sells USBC 2.0 Watchy, but I quess they are the same, as only the USB port changed**
 
 # Further notes that you should know before you buy:
-**All of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
+**Some of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
 - ~~The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones~~ Well now there is a USBC 2.0 version. I quess, logically it's not compabitable with SQFMI cases
-- In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked `¯\_(ツ)_/¯`
+- In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked, but expect the same thing `¯\_(ツ)_/¯`
 - The screen is already glued in and has a foil that can be taken off. cool.
 - As you can see in the images - It comes in a mini pcb based case that it's screwed in. Even with the screw holes, the PCB is solid. You can use that case or 3D print one like I did.
-- It also comes with a very good looking 200mAh battery and a strap. cool.
-- It's micro usb now, not USB-C how it was before ;)
-- The buttons are now way better than in the previous version. More clicky but more noisy. Still better
+- It also comes with a very good looking 200mAh battery and a strap. cool. But the capacity of the battery may very, you might need to replace it sooner than you expect.
+- The buttons from their design are very fragile, some of them are more clicky then others. They may come off after some time. Replacements cost a few cents but the soldering is tricky
 - **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** This seller doesn't ship to germany. But there are others that ship (Very fast shipping it was) to germany but have at a higher price, just search for them **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** <sub>If I see one more guy complaining they don't ship to germany I will not hesitate to steal your Bratwurst</sub>
-- It comes with a micro usb cable too!
-- In my experience, the screen ghosts in extreme temperatures - arround 0 or 50 degree C it's bad - maybe I'm not sure about the cold part
+- In my experience, the screen ghosts in extreme temperatures - arround 0 or 30 degrees C it's bad - maybe I'm not sure about the cold part. But, from what I had heard recently the seller started using a newer generation of screens. (SQFMI says it's "the faster" screen, not really ). The only difference is that it blinks less in full refreshes, still cool. Some users suggested that it withstands extreme temperatures better, but the documentation for those screens doesn't support this claim.
 
 # Things to know when coding the watch
 - The 2.0 version doesn't work without a battery - the RTC reading are corrupted. Just connect the battery.
   - The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
-  - When USB is connected the RTC drifts in a non linear way - that's horrible, my solution to that is connect to wifi when charging and sync NTP a few minutes
+  - When USB is connected the RTC drifts in a non linear way - that's horrible, my solution to that is connect to wifi when charging and sync NTP every few minutes
 
 # For people who are not tech savvy
 Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones (I could also propably 3D print you a case...) Contact below :)
@@ -66,10 +65,10 @@ Don't worry! You can either learn, ask for help in the communities I listed belo
 - https://github.com/Szybet/InkWatchy - Mine ;p
 - https://github.com/GuruSR/Watchy_GSR - Most advanced but the codebase... motivated me to write mine
 - maybe this one too, not sure: https://github.com/NiklasNeugebauer/minty-os
-### Other
+### Other firmwares
 - https://github.com/Prokuon/watchy-starfield - Looks awesome
 - https://github.com/OregonJunco/Watchytchi
-### Other other
+### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
 
 # 3D printed case
@@ -79,9 +78,9 @@ Reuben designed it from the Watchy discord server, thanks!
 # FAQ
 Q: Can I trust the seller? Won't they scam me?
 
-A: **I do not know.** Now I'm talking about the one seller I'm linking. I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. Many other people were very happy with their watch. They praised the seller for communication that it was better than SQFMI. When they changed to the 2.0 version from the USB-C one, the communication and tranfer was clear. No one was dissatisfied.
+A: ~~**I do not know.** Now I'm talking about the one seller I'm linking. I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. Many other people were very happy with their watch. They praised the seller for communication that it was better than SQFMI. When they changed to the 2.0 version from the USB-C one, the communication and tranfer was clear. No one was dissatisfied.~~ At this point so many people bought the device that there is no risk basically. But well, the crossed out text still is true
 
 # Contact
 for any questions, you can create a github issue here or catch me on:
-- Inkbox OS [Matrix space](https://matrix.to/#/#inkbox-os-project:matrix.org) or [Discord server](https://discord.com/invite/uSWtWbY23m)
+- Quill OS [Matrix space](https://matrix.to/#/#inkbox-os-project:matrix.org) or [Discord server](https://discord.com/invite/uSWtWbY23m)
 - [Watchy discord community](https://discord.gg/ZXDegGV8E7)
