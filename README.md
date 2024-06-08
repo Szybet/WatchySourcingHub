@@ -19,7 +19,6 @@ A clone of the Watchy, sold on various platforms from probably various sellers, 
   <img src="/images/img3.jpg" width="300" height="300"/>
   <img src="/images/img4.jpg" width="300" height="300"/>
   <img src="/images/img5.jpg" width="300" height="300"/>
-  <img src="/images/img6.jpg" width="300" height="300"/>
 </p>
 
 # Why?...
@@ -29,7 +28,7 @@ This statement was true in october 2023 and is still true in january 2024🥴
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
-**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-scammer/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it.** 
+**That was a light version of this whole situation. [Here](https://szybet.github.io/WatchySourcingHub/SQFMI-controversy-conversation/Watchy%20-%20Text%20Channels%20-%20general%20[804832183516266498]%20(after%202024-05-11).html) is a whole conversation about it.** 
 
 This conversation was heated up. Later we concluded that SQFMI is not a scammer because he didn't run away with the money and after 2 years he cleared up the situation a bit, but the pain remains.
 
