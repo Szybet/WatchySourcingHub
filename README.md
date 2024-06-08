@@ -50,6 +50,7 @@ SQFMI about the whole situation:
 - In my experience, the screen ghosts in extreme temperatures - arround 0 or 30 degrees C it's bad - maybe I'm not sure about the cold part. But, from what I had heard recently the seller started using a newer generation of screens. (SQFMI says it's "the faster" screen, not really ). The only difference is that it blinks less in full refreshes, still cool. Some users suggested that it withstands extreme temperatures better, but the documentation for those screens doesn't support this claim.
 
 # Things to know when coding the watch
+- **Use platformio. Don't use arduino IDE. 90% of issues on the Watchy server are solved by using platformio. Not only that, arduino ide compiling is slower.**
 - The 2.0 version doesn't work without a battery - the RTC reading are corrupted. Just connect the battery.
   - The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
   - When USB is connected the RTC drifts in a non linear way - that's horrible, my solution to that is connect to wifi when charging and sync NTP every few minutes
@@ -73,7 +74,6 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 - https://github.com/Szybet/watchy-scom - For lazy people
 
 # Some 3D printed cases
-- **Use platformio. Don't use arduino IDE. 90% of issues on the Watchy server are solved by using platformio. Not only that, arduino ide compiling is slower.**
 - https://www.printables.com/model/745711-watchy-invader-remix - Reuben designed it from the Watchy discord server, thanks! Some users reported that it works with USB-C and micro usb. This case is really thick
 - https://www.printables.com/model/664145-watchy-10-usb-c-case-with-a-bigger-battery - By me, Szybet - for the Watchy 1.0 USB-C. You would need to adjust it for your new 2.0 version
 - https://www.printables.com/model/906093-watchy-flat-case - By me too, the flattest watchy, for the micro usb version
