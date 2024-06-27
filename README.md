@@ -88,4 +88,4 @@ A: ~~**I do not know.** Now I'm talking about the one seller I'm linking. I was 
 # Contact
 for any questions, you can create a github issue here or catch me on:
 - Quill OS [Matrix space](https://matrix.to/#/#inkbox-os-project:matrix.org) or [Discord server](https://discord.com/invite/uSWtWbY23m)
-- [Watchy discord community](https://discord.gg/ZXDegGV8E7)
+- Because of the lack of moderation on the official watchy server, while also banning random people without giving any reason I don't feel comfortable with advertising it here, We created an alternative, a community drived <a href="https://discord.gg/6PUmRXZRGD">discord server: *atchy community</a>
