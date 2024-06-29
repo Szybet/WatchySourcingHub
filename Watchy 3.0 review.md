@@ -35,3 +35,5 @@ And that's the basics, I didn't even went deeper in the problems I described.
 With all of that in mind, even if some issues that will be resolved in the future, others can't. Do you support such behavior? I don't, I will vote with my wallet and just order the 2.0 watchy from aliexpress, It's fine enough.
 
 Why am I writing this? I just can't handle it anymore, I wanted the watchy to succeed, to be an awesome device. That's why I spend hundrets of hours to write a fully custom firmware for it, to help people in the community with their tech problems (mostly solved by not using the SQFMI provided software) but SQFMI does everything wrong. I'm sick of it.
+
+But the biggest problem, the summary of it all? No communication, zero, none. None... Almost all of those issues would be solved with a bit of communication, a tiny tiny bit...
