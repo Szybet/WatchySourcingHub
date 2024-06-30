@@ -45,7 +45,7 @@ But the biggest problem, the summary of it all? No communication, zero, none. No
 
 ## Response:
 
-Response from a moderator from the Watchy discord
+Response from a moderator from the Watchy discord, so not an official response.
 
 GuruSR is a cool guy, knowledgable developer but his defending of SQFMI is sometimes too much. He is not associated with SQFMI really, but that's also is not a clear topic.
 ![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/d27f517e-cc73-4d78-85f0-9516f774a3c6)
