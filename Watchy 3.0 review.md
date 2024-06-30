@@ -42,3 +42,10 @@ With all of that in mind, even if some issues that will be resolved in the futur
 Why am I writing this? I just can't handle it anymore, I wanted the watchy to succeed, to be an awesome device. That's why I spend hundrets of hours to write a fully custom firmware for it, to help people in the community with their tech problems (mostly solved by not using the SQFMI provided software) but SQFMI does everything wrong. I'm sick of it.
 
 But the biggest problem, the summary of it all? No communication, zero, none. None... Almost all of those issues would be solved with a bit of communication, a tiny tiny bit...
+
+## Response:
+
+Response from a moderator from the Watchy discord
+
+GuruSR is a cool guy, knowledgable developer but his defending of SQFMI is sometimes too much. He is not associated with SQFMI really, but that's also is not a clear topic.
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/d27f517e-cc73-4d78-85f0-9516f774a3c6)
