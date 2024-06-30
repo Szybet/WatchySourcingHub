@@ -24,6 +24,7 @@ Further more, the 3.0 improvements are laughable compared to 2.0, with the incre
 - CPU is more modern, allows to use less components on the PCB. So in theory the thing should be cheaper. No USB-UART IC, no RTC IC. Well it will be a bit power efficient for sure
 - Buttons look more solid but it's still the same flawed design. The previous ones broke off too often.
 - Screen is said to be a modern version. It's said it's faster, well no - Only full screen refreshes are, but my eye can't see a difference.
+- They added a TVS protection diode on the USB traces. Yay, at least that
 
 And to other issues with SQFMI:
 - There has been almost none communication with the community, only a few times on discord (In 2 years!). I'm not even sure all people know who ordered that they will receive the 3.0 version instead of the 2.0. It's supposed to be better, but not really
