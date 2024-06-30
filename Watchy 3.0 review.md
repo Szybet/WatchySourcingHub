@@ -20,6 +20,8 @@ For people who will say they needed to put it there because of lack of space, um
 
 https://github.com/Szybet/WatchySourcingHub/blob/main/images/3.0/pcb.png
 
+I have only noticed it now, but they shipped that guy one button with the wrong size...
+
 Further more, the 3.0 improvements are laughable compared to 2.0, with the increase with price. It's 100$ While the 2.0 is 50$ (Well I know the 2.0 currently is a reseller from china), I hope. I really do hope that the case costed so much, as for the improvements:
 - CPU is more modern, allows to use less components on the PCB. So in theory the thing should be cheaper. No USB-UART IC, no RTC IC. Well it will be a bit power efficient for sure
 - Buttons look more solid but it's still the same flawed design. The previous ones broke off too often.
