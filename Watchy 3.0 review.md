@@ -32,7 +32,7 @@ There may be more, but there is no spec or anything, so just my eye is guessing.
 
 And to other issues with SQFMI:
 - There has been almost none communication with the community, only a few times on discord (In 2 years!). I'm not even sure all people know who ordered that they will receive the 3.0 version instead of the 2.0. It's supposed to be better, but not really
-- Recently people started getting banned from the discord server (without explanations), the watchy subreddit is now restricted, I can't post this post there. I could a month ago
+- Recently people started getting banned from the discord server (without explanations), the watchy subreddit is now restricted, I can't post this post there. I could a month ago (Update: Reddit closed the subreddit, I contacted the mod and he reopened it... classic reddit)
 - The software SQFMI provides is horribly basic, that's not an issue because I and others similar to me exist who write third party software, but for the 3.0 we can't. Also the software he wrote made the device not responding in the first place...
 
 And that's the basics, I didn't even went deeper in the problems I described.
