@@ -49,6 +49,11 @@ I will not edit the text above with new informations, as this was the informatio
 - Another customer received an broken screen. This is weird, packaging of the screen was pretty good and when I ordered 3 of those screens they came in a horrible packaging and survived. I hope this is a one off incident. Also the count of watchy 3.0 users who received something wrong / broken is now 2 out of 4. This number means nothing, but it's weird that it happened?
 - Another person with a broken button... Ugh
 
+Cry, acceptance, laugh
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/d3046384-e13b-45aa-88eb-fcad600b6a9a)
+
+
 ## Response:
 
 Response from a moderator from the Watchy discord, so not an official response.
