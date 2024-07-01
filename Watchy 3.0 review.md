@@ -47,6 +47,7 @@ But the biggest problem, the summary of it all? No communication, zero, none. No
 I will not edit the text above with new informations, as this was the information I gathered when the first watchy v3 users appeared, so, new info:
 - The cpu is esp32s3 so 8Mb of flash and usb otg support (the circuitry is not designed to support it, will be harder to use). Well the flash storage is cool
 - Another customer received an broken screen. This is weird, packaging of the screen was pretty good and when I ordered 3 of those screens they came in a horrible packaging and survived. I hope this is a one off incident. Also the count of watchy 3.0 users who received something wrong / broken is now 2 out of 4. This number means nothing, but it's weird that it happened?
+- Another person with a broken button... Ugh
 
 ## Response:
 
