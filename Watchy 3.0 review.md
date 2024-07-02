@@ -1,3 +1,5 @@
+### Please read the whole text, as there were updates, some of the parts of this text are outdated (for purpuse to preserve how it was on the day 1 launch)
+
 ## Early review of the Watchy 3.0 - It's worse than bad. It's unacceptable.
 
 First, a bit of introduction. Watchy is an open source eink watch, with open hardware and software. I'm a hobby [developer](https://github.com/Szybet/InkWatchy) for that device and a member of the community of it (I'm not associated with SQFMI in any way). I have been maintaining a [list of resellers](https://github.com/Szybet/WatchySourcingHub) because SQFMI delayed the 3.0 version for almost 2 years saying it "Will be shipping next month"... Well that situation was pretty much cleared out, SQFMI officially allowed those resellers to "resell". Well I'm not here about that, more information about it is in the repo above.
@@ -61,9 +63,28 @@ So software & firmware has been addressed finally :D
 
 2 users tried the software with the same not working result... lol...
 
-## Response:
+Ok firmware maybe fixed, WatchyGSR and I with InkWatchy also added support for it, looks good
 
-Response from a moderator from the Watchy discord, so not an official response.
+# TLDR
+I think all the problems were resolved (as much as they could be)
 
-GuruSR is a cool guy, knowledgable developer but his defending of SQFMI is sometimes too much. He is not associated with SQFMI really, but that's also is not a clear topic.
-![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/d27f517e-cc73-4d78-85f0-9516f774a3c6)
+So, a bit of a TLDR:
+- Software, Hardware, Docs situation cleared out. It's a bit sad it wasn't there on day 1, or maybe even before production has begun (I would catch that smd components - connector flaw...) but hey, better sooner than never
+- The flaw I described should be covered under warranty and will be addressed in the docs to make sure everyone is careful. Good, very good. SQFMI also points out that the device will work anyway without those components, I disagree, it's more complicated than that and we both are right, it's a bit of a lottery. I would advise users to use a bit of hot glue (not crazy hot) on those components or add more solder to them (If you can do that) to make them more solid
+- Apologized for the lack of communication 
+- Took into account some of the suggestions the community made
+- The banned user I was taking into example was reported by many users, Idk what he did so wrong to take a ban, not the nicest dude I have met but an OK one, whatever at least not random baning complaining random customers. Still the user should have received warnings first
+
+Also a big thing, at least for me: He didn't banned me and we had a nice conversation about it all, which is suprising. This post was very negative about him, further more I advertised watchy clones, Took it out to other social media platforms, I create a "competitor" device https://github.com/Szybet/Yatchy (It's not commercial just my hobby project leave me alone, but it can be received as a competitor I understand that)
+
+But well, I achieved what I wanted: change, action - I don't know if it's because of me or just a coincidence, the point being that the wheels started rolling for a better future, we will see. Everything I have done or said is, in my opinion for the best of the future of the Watchy project, I love this thing, and it was dying off so I needed to take action.
+
+The conversation I had with SQFMI for further details:
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/0571ab69-5eb4-4b36-97a7-37746447775e)
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/b9b3f77f-1917-46fc-894f-88b9cb7a39ac)
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/0d0765cc-38c8-4825-9daa-7a0937c942dd)
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/6479f063-9e7e-401c-8ba1-9e38b0e78ff1)
