@@ -53,6 +53,11 @@ Cry, acceptance, laugh
 
 ![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/d3046384-e13b-45aa-88eb-fcad600b6a9a)
 
+Finally some communication!
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/a4fdd57a-6b59-410d-9ea4-d8ee5830d3ad)
+
+So software & firmware has been addressed finally :D
 
 ## Response:
 
