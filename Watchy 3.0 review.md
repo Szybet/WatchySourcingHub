@@ -69,7 +69,7 @@ Ok firmware maybe fixed, WatchyGSR and I with InkWatchy also added support for i
 I think all the problems were resolved (as much as they could be)
 
 So, a bit of a TLDR:
-- Software, Hardware, Docs situation cleared out. It's a bit sad it wasn't there on day 1, or maybe even before production has begun (I would catch that smd components - connector flaw...) but hey, better sooner than never
+- Software, Hardware, Docs situation cleared out (Soon available). It's a bit sad it wasn't there on day 1, or maybe even before production has begun (I would catch that smd components - connector flaw...) but hey, better sooner than never
 - The flaw I described should be covered under warranty and will be addressed in the docs to make sure everyone is careful. Good, very good. SQFMI also points out that the device will work anyway without those components, I disagree, it's more complicated than that and we both are right, it's a bit of a lottery. I would advise users to use a bit of hot glue (not crazy hot) on those components or add more solder to them (If you can do that) to make them more solid
 - Apologized for the lack of communication 
 - Took into account some of the suggestions the community made
