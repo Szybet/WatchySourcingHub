@@ -1,4 +1,23 @@
-The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it. the USB-C 2.0 version that is currently sold
+### Before looking at the rest of this repo
+
+SQFMI, the original creator of the watchy started shipping again, further more it's in stock so no more waiting. Well now, the reputation of SQFMI is not that great because of the sooo long shipping delays in the past (see the "Whyyyy" section below) and the rough release of the watchy 3.0 and it's design (Situation explained [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)) but I still think it's better to buy from him, for those reasons:
+
+- It's always better to support the original creator who open sourced his work (or will eventually) than a copy who "borrowed" the design and didn't contributed much back
+- You buying from mouser / any shop that is not aliexpress really will be a better experience for you - warranty, faster shipping, safer shipping, better packaging, better more quality components (battery, case & strap). Do I really need to explain that aliexpress is the last resort for buying stuff?
+- The V3 has some cool features (mainly for me bigger flash) <sub>and some flaws</sub> If you can get either one of them, then get the newer version (as software support will slowly shift to the newer one)
+- Communication recently improved, I hope I will not need to remove this statement from here
+
+Also SQFMI about the clones:
+
+"it has become a problem for us to support and address issues. Many users have reached out to us on receiving faulty hardware, broken parts, case not fitting, or other firmware issues, and only upon further discussion did we realize they have purchased a clone"
+
+With that in mind, here is the link: https://watchy.sqfmi.com/ as always decide for yourself
+
+And for the people who bought a watchy from aliexpress and then went to SQFMI to complain... what the **** ** ***** **** ***. No further comment.
+
+The rest of the repo is about those alternative clones
+
+<sub>The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it. the USB-C 2.0 version that is currently sold</sub>
 
 # WatchySourcingHub
 A clone of the Watchy, sold on various platforms from probably various sellers, but the manufacturer is probably the same.
