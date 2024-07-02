@@ -59,6 +59,8 @@ Finally some communication!
 
 So software & firmware has been addressed finally :D
 
+2 users tried the software with the same not working result... lol...
+
 ## Response:
 
 Response from a moderator from the Watchy discord, so not an official response.
