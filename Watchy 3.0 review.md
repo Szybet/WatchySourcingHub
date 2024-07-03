@@ -65,6 +65,10 @@ So software & firmware has been addressed finally :D
 
 Ok firmware maybe fixed, WatchyGSR and I with InkWatchy also added support for it, looks good
 
+Another person did it :(
+
+![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/2b3c2950-f6dd-4a48-828b-fc650f5e0e1b)
+
 # TLDR
 I think all the problems were resolved (as much as they could be)
 
