@@ -15,7 +15,7 @@ With that in mind, here is the link: https://watchy.sqfmi.com/ as always decide 
 
 And for the people who bought a watchy from aliexpress and then went to SQFMI to complain... what the **** ** ***** **** ***. No further comment.
 
-The rest of the repo is about those alternative clones
+The rest of the repo is about those alternative clones, There is also infortmation about communities, firmwares, 3D printed case and more which also concern the watchy v3
 
 <sub>The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it. the USB-C 2.0 version that is currently sold</sub>
 
