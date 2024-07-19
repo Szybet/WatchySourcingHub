@@ -98,6 +98,7 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 - https://www.printables.com/model/906093-watchy-flat-case - By me too, the flattest watchy, for the micro usb version
 - https://www.printables.com/model/503282-watchy-case-minty - Minty case by minty
 - https://www.printables.com/model/906117-watchy-kit-case - By me, slimmer minty version
+- https://makerworld.com/en/models/498091 - Slimmer stock version from [this](https://www.reddit.com/r/watchy/comments/1e75bzy/best_3d_printable_cases/) reddit post
 
 # FAQ
 Q: Can I trust the seller? Won't they scam me?
