@@ -26,7 +26,7 @@ A clone of the Watchy, sold on various platforms from probably various sellers, 
   - Their aliexpress store: https://pl.aliexpress.com/store/912632218
   - And the watchy on their store: https://pl.aliexpress.com/item/1005005209927318.html (It's the original manufacturer, others on Ali probably resell his watchy)
 - Banggood
-  - No one yet bought from him
+  - One person bought and is satisfied
   - [A horrible long link](https://usa.banggood.com/Watchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html?af_force_deeplink=true&tags=direct&source_caller=api&pid=direct&is_retargeting=true&shortlink=ecydp3md&af_ad=-&deep_link_value=https%3A%2F%2Fm.banggood.com%2FWatchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html%3Futm_source%3Ddirect%26utm_medium%3Dnone%26utm_content%3D-%26utm_campaign%3Dnone_pps_copy&af_channel=none&c=-&cur_warehouse=CN)
 - Shopee
   - No one bought it too
