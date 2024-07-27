@@ -1,4 +1,16 @@
-### Before looking at the rest of this repo
+# WatchySourcingHub
+
+### Contents
+- [Original Watchy v3](#original-watchy-v3)
+- [Clones](#clones)
+- [Morality of those clones](#morality-of-those-clones)
+- [Notes about the clones](#further-notes-that-you-should-know-before-you-buy)
+- [Things to know when coding the watchy](#things-to-know-when-coding-the-watch)
+- [Some firmwares for the watchy that I like](#some-firmwares-for-the-watchy-that-i-like)
+- [Some 3D printed cases](#some-3d-printed-cases)
+- [Contact and the community](#contact-and-the-community)
+  
+## Original Watchy v3
 
 SQFMI, the original creator of the watchy started shipping again, further more it's in stock so no more waiting. Well now, the reputation of SQFMI is not that great because of the sooo long shipping delays in the past (see the "Whyyyy" section below) and the rough release of the watchy 3.0 and it's design (Situation explained [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)) but I still think it's better to buy from him, for those reasons:
 
@@ -6,6 +18,7 @@ SQFMI, the original creator of the watchy started shipping again, further more i
 - You buying from mouser / any shop that is not aliexpress really will be a better experience for you - warranty, faster shipping, safer shipping, better packaging, better more quality components (battery, case & strap). Do I really need to explain that aliexpress is the last resort for buying stuff?
 - The V3 has some cool features (mainly for me bigger flash) <sub>and some flaws</sub> If you can get either one of them, then get the newer version (as software support will slowly shift to the newer one)
 - Communication recently improved, I hope I will not need to remove this statement from here
+- Do note that as of 27.07.2024 the schematics still weren't released. It's almost 2 months now, that's bad.
 
 Also SQFMI about the clones:
 
@@ -19,7 +32,7 @@ The rest of the repo is about those alternative clones, There is also infortmati
 
 <sub>The USB-C 1.0 watchy is now depracated. To find info about it, look into watchy-usbc folder. The rest of this repo contains info about the replacement of it. the USB-C 2.0 version that is currently sold</sub>
 
-# WatchySourcingHub
+## Clones
 A clone of the Watchy, sold on various platforms from probably various sellers, but the manufacturer is probably the same.
 - Aliexpress seller, the first one that appeared, the most trusted in my opinion (The most people buught from him)
   - Here is their Github repo for the "E-watch". There is nothing really there ;) - https://github.com/01Space/E-Watch
@@ -40,10 +53,10 @@ A clone of the Watchy, sold on various platforms from probably various sellers, 
   <img src="/images/imgc5.jpg" width="300" height="400"/>
 </p>
 
-# Why?...
+## Morality of those clones
 A few thousand people ordered on crowdfund and now their shippind date is shifting and shifting again and again. On mouser 1.5k people are waiting. Pi hut doesn't ship anywhere really ( Like couldn't you just don't ship the battery, we could buy it locally... ). Obviously I don't blame anyone. I understand the problems with supply chains in the recent years. But the situation is and was bad, just bad.
 
-This statement was true in october 2023 and is still true in january 2024🥴
+This statement was true in october 2023 and is still true in january 2024🥴. While the Watchy v3 released, this statement is still a bit true.
 
 I wasn't able to get a original watchy as I was hunting for it from 2021 so...
 
@@ -57,7 +70,7 @@ SQFMI about the whole situation:
 
 **The rest of the repo describes the aliexpress micro USB 2.0 watchy. Currently the seller sells USBC 2.0 Watchy, but I quess they are the same, as only the USB port changed**
 
-# Further notes that you should know before you buy:
+## Further notes that you should know before you buy:
 **Some of those issues below, are related to the design of the 2.0 version of the Watchy. Don't contact the aliexpress seller for no reason, If you have any questions, ask me through contact below.**
 - ~~The schematic is 1:1 with the oryginal watchy (Now it's the 2.0 version). The PCB too because **it is compatible** with official SQFMI metal cases. That's why this repo no longer contains schematics for this version. They are the same as the SQFMI ones~~ Well now there is a USBC 2.0 version. I quess, logically it's not compabitable with SQFMI cases
 - In the previous USB-C version, the components were not original. Maybe they were recycled or idk. In the current version I didn't checked, but expect the same thing `¯\_(ツ)_/¯`
@@ -68,7 +81,9 @@ SQFMI about the whole situation:
 - **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** This seller doesn't ship to germany. But there are others that ship (Very fast shipping it was) to germany but have at a higher price, just search for them **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** <sub>If I see one more guy complaining they don't ship to germany I will not hesitate to steal your Bratwurst</sub>
 - In my experience, the screen ghosts in extreme temperatures - arround 0 or 30 degrees C it's bad - maybe I'm not sure about the cold part. But, from what I had heard recently the seller started using a newer generation of screens. (SQFMI says it's "the faster" screen, not really ). The only difference is that it blinks less in full refreshes, still cool. Some users suggested that it withstands extreme temperatures better, but the documentation for those screens doesn't support this claim.
 
-# Things to know when coding the watch
+### The rest of the repo is for general things, not only the clones :)
+
+## Things to know when coding the watch
 - **Use platformio. Don't use arduino IDE. 90% of issues on the Watchy server are solved by using platformio. Not only that, arduino ide compiling is slower.**
 - The 2.0 version doesn't work without a battery - the RTC reading are corrupted. Just connect the battery.
   - The RTC is drifting, **that's normal for the RTC by design.** You just need to adjust for that, there are automated libraries to do that.
@@ -77,7 +92,7 @@ SQFMI about the whole situation:
 # For people who are not tech savvy
 Don't worry! You can either learn, ask for help in the communities I listed below or buy me a big coffe for premium guidanance or even to create your personal firmware / add some features to existing ones (I could also propably 3D print you a case...) Contact below :)
 
-# Some firmwares for the watchy that I like
+## Some firmwares for the watchy that I like
 ### Firmwares that are "the new generation?"
 
 Using other firmwares than these 4 will get you problems (most probably), these are the newest written ones
@@ -105,7 +120,7 @@ Q: Can I trust the seller? Won't they scam me?
 
 A: ~~**I do not know.** Now I'm talking about the one seller I'm linking. I was talking to someone who knows what a schematic is ( That's rare too ). He was a human too so I'm happy with the service. Delivered without issues, device works without issues too. Many other people were very happy with their watch. They praised the seller for communication that it was better than SQFMI. When they changed to the 2.0 version from the USB-C one, the communication and tranfer was clear. No one was dissatisfied.~~ At this point so many people bought the device that there is no risk basically. But well, the crossed out text still is true
 
-# Contact
+# Contact and the community
 for any questions, you can create a github issue here or catch me on:
 - Quill OS [Matrix space](https://matrix.to/#/#inkbox-os-project:matrix.org) or [Discord server](https://discord.com/invite/uSWtWbY23m)
-- Because of the lack of moderation on the official watchy server, while also banning random people without giving any reason I don't feel comfortable with advertising it here, We created an alternative, a community drived <a href="https://discord.gg/6PUmRXZRGD">discord server: *atchy community</a>
+- Because of the lack of moderation on the official watchy server, while also ~~banning random people without giving any reason~~ other reasons I don't feel comfortable with advertising it here, We created an alternative, a community drived <a href="https://discord.gg/6PUmRXZRGD">discord server: *atchy community</a>
