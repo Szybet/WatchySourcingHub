@@ -105,13 +105,13 @@ Don't worry! You can either learn, ask for help in the communities I listed belo
 
 Using other firmwares than these 4 will get you problems (most probably), these are the newest written ones
 
-- https://github.com/Michal-Szczepaniak/TinyWatchy - doesn't support watchy v3
-- https://github.com/Szybet/InkWatchy - Mine, many unique features, the most configurable one
 - https://github.com/GuruSR/Watchy_GSR - Has many features that you would expect from a smart watch, but the codebase... motivated me to write mine
-- maybe this one too, not sure: https://github.com/NiklasNeugebauer/minty-os
-### Other firmwares
-- https://github.com/Prokuon/watchy-starfield - Looks awesome
-- https://github.com/OregonJunco/Watchytchi
+- https://github.com/Szybet/InkWatchy - Mine, many unique features, the most configurable one
+- https://github.com/Michal-Szczepaniak/TinyWatchy - doesn't support watchy v3
+### Other firmwares, inspiration more than actually usable firmwares
+- https://github.com/Szybet/watchy-starfield - Looks awesome
+- https://github.com/OregonJunco/Watchytchi - Cool idea
+- https://github.com/NiklasNeugebauer/minty-os - Abandoned, but the code looks good
 ### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
 
