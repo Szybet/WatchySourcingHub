@@ -52,6 +52,7 @@ A clone of the Watchy, sold on various platforms from probably various sellers, 
 - Shopee
   - No one bought it
   - [A horrible link, I can't change the language from vietnamese](https://shopee.vn/product/936949083/25811373902?d_id=605f0&uls_trackid=4vh4705i000v)
+  - There is at least [one reseller](https://shopee.ph/ESP32-E-ink-display-Smart-Watch-Adjustable-DIY-Dial-3D-Printer-CNC-Cases-Customizable-Connect-With-B-i.1118147316.25614088712) on Shopee that provides options for a 3D-printed or CNC case
 - Lazada
   - For people in Southeast Asia, check your regional Lazada for resellers of Watchy 2.0 clones
   - For example, Lazada Singapore shows [this](https://www.lazada.sg/catalog/?spm=a2o42.homepage.search.d_go&q=watchy) when searching for Watchy
