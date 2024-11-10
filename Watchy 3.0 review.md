@@ -70,7 +70,7 @@ Another person did it :(
 ![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/2b3c2950-f6dd-4a48-828b-fc650f5e0e1b)
 
 # TLDR after 4 months
-- There is only the schematic, no PCB source files, which is lying to customers.
+- **There is only the schematic, no PCB source files, which is lying to customers.**
 - Official software and docs were made to barely work.
 - There were a few users who had wrong resistor values on the charging IC. It got hot really fast, could probably burn down or even start a fire if the users weren't paying attention
 - Nothing what was promised was delivered, like platformio support
