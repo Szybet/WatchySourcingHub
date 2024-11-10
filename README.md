@@ -17,6 +17,8 @@
 
 * * *
 
+### TLDR and latest update [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md#tldr-after-4-months)
+
 SQFMI, the original creator of the watchy started shipping again, further more it's in stock so no more waiting. Well now, the reputation of SQFMI is not that great because of the sooo long shipping delays in the past (see the "Whyyyy" section below) and the rough release of the watchy 3.0 and it's design (Situation explained [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)) but I still think it's better to buy from him, for those reasons:
 
 - It's always better to support the original creator who open sourced his work (or will eventually) (He did not do that, lol) than a copy who "borrowed" the design and didn't contributed much back
