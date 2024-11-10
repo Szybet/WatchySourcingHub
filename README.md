@@ -9,6 +9,7 @@
 - [Some firmwares for the watchy that I like](#some-firmwares-for-the-watchy-that-i-like)
 - [Some 3D printed cases](#some-3d-printed-cases)
 - [Contact and the community](#contact-and-the-community)
+- [Community mantained wiki](#community-mantained-wiki)
   
 ## Original Watchy v3
 
@@ -138,3 +139,6 @@ A: ~~**I do not know.** Now I'm talking about the one seller I'm linking. I was 
 for any questions, you can create a github issue here or catch me on:
 - Quill OS [Matrix space](https://matrix.to/#/#inkbox-os-project:matrix.org) or [Discord server](https://discord.com/invite/uSWtWbY23m)
 - Because of the lack of moderation on the official watchy server, while also ~~banning random people without giving any reason~~ other reasons I don't feel comfortable with advertising it here, We created an alternative, a community drived <a href="https://discord.gg/6PUmRXZRGD">discord server: *atchy community</a>
+
+# Community mantained wiki
+Here it is: https://github.com/Szybet/InkWatchy/wiki/New-Watchy-user%3F
