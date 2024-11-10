@@ -69,7 +69,22 @@ Another person did it :(
 
 ![image](https://github.com/Szybet/WatchySourcingHub/assets/53944559/2b3c2950-f6dd-4a48-828b-fc650f5e0e1b)
 
-# TLDR
+# TLDR after 4 months
+- There is only the schematic, no PCB source files, which is lying to customers.
+- Official software and docs were made to barely work.
+- There were a few users who had wrong resistor values on the charging IC. It got hot really fast, could probably burn down or even start a fire if the users weren't paying attention
+- Nothing what was promised was delivered, like platformio support
+- I and another user took some measurments of the 32khz quartz used to track time, in short, they cheaped out on it and time will drift like in the previous 2 versions. The device would need to cost 1$ more for it to track time reasonable well.
+- Zero communication with the community
+- The official software has some comments about [Chinese timezone](https://github.com/sqfmi/Watchy/blob/9f3accdb076b567c2e34b0347f292effcde04a6f/src/Watchy32KRTC.cpp#L44) for no reason at all. My **wild theory** is it was fully outsourced, as SQFMI was originally originated and was placed in the USA
+
+Yea, I'm tired of this
+
+Community provides support for it, Inkwatchy and watchy gsr support it (but writing the software for it clearly indicates there was no second thought put into it)
+
+Well that's rough for sure, do what you want
+
+# Old TLDR
 I think all the problems were resolved (as much as they could be)
 
 So, a bit of a TLDR:
