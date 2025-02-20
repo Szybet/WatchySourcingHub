@@ -78,6 +78,7 @@ Another person did it :(
 - Zero communication with the community
 - The official software has some comments about [Chinese timezone](https://github.com/sqfmi/Watchy/blob/9f3accdb076b567c2e34b0347f292effcde04a6f/src/Watchy32KRTC.cpp#L44) for no reason at all. My **wild theory** is it was fully outsourced, as SQFMI was originally originated and was placed in the USA
 - the OSHWA certification is outdated, it's for the version 1 while we are on version 3
+- Many knocked out components because of the location of them near the battery connector, many damaged watchies...
 
 Yea, I'm tired of this
 
