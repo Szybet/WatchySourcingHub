@@ -10,7 +10,8 @@
 - [Some 3D printed cases](#some-3d-printed-cases)
 - [Contact and the community](#contact-and-the-community)
 - [Community mantained wiki](#community-mantained-wiki)
-  
+- [Shameless ad of something cool I made which is related to watchy so check it if you want out or be mad at me for wasting your time reading this 34 word long sentence](https://github.com/Szybet/Yatchy)
+
 ## Original Watchy v3
 
 <details>
@@ -126,6 +127,7 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 - https://github.com/NiklasNeugebauer/minty-os - Abandoned, but the code looks good
 ### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
+- https://github.com/Szybet/Yatchy - :DDD
 
 # Some 3D printed cases
 - https://www.printables.com/model/745711-watchy-invader-remix - Reuben designed it from the Watchy discord server, thanks! Some users reported that it works with USB-C and micro usb. This case is really thick
