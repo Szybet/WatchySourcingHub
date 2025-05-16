@@ -98,8 +98,7 @@ SQFMI about the whole situation:
 - It also comes with a very good looking 200mAh battery and a strap. cool. But the capacity of the battery may very, you might need to replace it sooner than you expect.
 - The buttons from their design are very fragile, some of them are more clicky then others. They may come off after some time. Replacements cost a few cents but the soldering is tricky
 - **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** This seller doesn't ship to germany. But there are others that ship (Very fast shipping it was) to germany but have at a higher price, just search for them **🇩🇪🇩🇪🇩🇪 GERMANS LOOK HERE 🇩🇪🇩🇪🇩🇪 DEUTSCHLAND 🇩🇪🇩🇪🇩🇪** <sub>If I see one more guy complaining they don't ship to germany I will not hesitate to steal your Bratwurst</sub>
-- In my experience, the screen ghosts in extreme temperatures - around 0 °C or 30 °C it's bad - maybe I'm not sure about the cold part. But, from what I had heard recently the seller started using a newer generation of screens. (SQFMI says it's "the faster" screen, not really ). The only difference is that it blinks less in full refreshes, still cool.
-  - Despite not being officially documented to have better reliability with more extreme temperatures, newer generation screens have been reported to withstand temperatures as high as 38° and as low as -10°C before experiencing ***significantly*** worse ghosting and other degradations
+- The screens used by Watchy clones are of variable quality, with reports of optimal operating temperatures ranging from as narrow as 0°C-30°C to as wide as -10°C-38°C.
 - The V2 doesn't have TVS diodes, so the usb uart chip may break, it happened to many people, it may for you or don't, it's a silicon, cable, usb second end quality lottery
 
 ### The rest of the repo is for general things, not only the clones :)
