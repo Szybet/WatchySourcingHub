@@ -121,6 +121,8 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 - https://github.com/GuruSR/Watchy_GSR - Has many features that you would expect from a smart watch, but the codebase... motivated me to write mine
 - https://github.com/Szybet/InkWatchy - Mine, many unique features, the most configurable one
 - https://github.com/Michal-Szczepaniak/TinyWatchy - doesn't support watchy v3
+- https://github.com/jtolio/watchyflow/ - A new firmware. Main focus is currently on calendar viewing
+  
 ### Other firmwares, inspiration more than actually usable firmwares
 - https://github.com/Szybet/watchy-starfield - Looks awesome
 - https://github.com/OregonJunco/Watchytchi - Cool idea
