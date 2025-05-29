@@ -121,7 +121,6 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 - https://github.com/GuruSR/Watchy_GSR - Has many features that you would expect from a smart watch, but the codebase... motivated me to write mine
 - https://github.com/Szybet/InkWatchy - Mine, many unique features, the most configurable one
 - https://github.com/Michal-Szczepaniak/TinyWatchy - doesn't support watchy v3
-- https://github.com/jtolio/watchyflow/ - A new firmware. Main focus is currently on calendar viewing
   
 ### Other firmwares, inspiration more than actually usable firmwares
 - https://github.com/Szybet/watchy-starfield - Looks awesome
@@ -130,6 +129,10 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 ### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
 - https://github.com/Szybet/Yatchy - :DDD
+
+## Contributed / Other firmwares
+As the creators requested to be here, but I don't have any experience with them, but im good with providing a platform to share them further
+- https://github.com/jtolio/watchyflow/ - A new firmware. Main focus is currently on calendar viewing (Only Arduino IDE / CLI, no platformio, based loosly on default watchy firmware)
 
 # Some 3D printed cases
 - https://www.printables.com/model/745711-watchy-invader-remix - Reuben designed it from the Watchy discord server, thanks! Some users reported that it works with USB-C and micro usb. This case is really thick
