@@ -150,7 +150,7 @@ A: ~~**I do not know.** Now I'm talking about the one seller I'm linking. I was 
 
 # Contact and the community
 for any questions, you can create a github issue here or catch me on:
-- Because of the lack of moderation on the official watchy server, while also ~~banning random people without giving any reason~~ other reasons I don't feel comfortable with advertising it here, We created an alternative, a community drived <a href="https://discord.gg/6PUmRXZRGD">discord server: *atchy community</a>
+- Because of the lack of moderation on the official watchy server, while also ~~banning random people without giving any reason~~ - Wait, no, it's actually true, I was finally banned too ;p and other reasons I don't feel comfortable with advertising it here, We created an alternative, a community drived <a href="https://discord.gg/6PUmRXZRGD">discord server: *atchy community</a>
 
 # Community mantained wiki
 Here it is: https://github.com/Szybet/InkWatchy/wiki/New-Watchy-user%3F
