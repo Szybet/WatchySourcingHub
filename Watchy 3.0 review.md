@@ -100,7 +100,7 @@ And people are still breaking their watchies because of the design flaw, just pe
 
 <img width="1154" height="788" alt="image" src="https://github.com/user-attachments/assets/8f535032-9f53-4b56-b3fa-6235e947c0e4" />
 
-# Old TLDR
+# Old TLDR / Outdated, still not true
 I think all the problems were resolved (as much as they could be)
 
 So, a bit of a TLDR:
