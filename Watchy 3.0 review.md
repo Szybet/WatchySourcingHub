@@ -86,6 +86,16 @@ Community provides support for it, Inkwatchy and watchy gsr support it (but writ
 
 Well that's rough for sure, do what you want
 
+# Update 2025.08.07
+I was banned from the official server without any warnings, without any word
+
+I advertised that I sell a yatchy there, but just saying "You cant do that" would be enough (I checked the rules, was nothing there about it, I even asked if I can in the same message) 
+like I posted one message of it, nothing more
+
+well, quess who knew it's gonna happen years before.
+
+Oh and while I'm still here, people still get watchy v3 which get hot while charging, risking a fire, close to none of the promises above or below were fullfilled, what a joke ;P
+
 # Old TLDR
 I think all the problems were resolved (as much as they could be)
 
