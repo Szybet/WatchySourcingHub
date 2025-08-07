@@ -96,6 +96,10 @@ well, quess who knew it's gonna happen years before.
 
 Oh and while I'm still here, people still get watchy v3 which get hot while charging, risking a fire, close to none of the promises above or below were fullfilled, what a joke ;P
 
+And people are still breaking their watchies because of the design flaw, just perfect
+
+<img width="1154" height="788" alt="image" src="https://github.com/user-attachments/assets/8f535032-9f53-4b56-b3fa-6235e947c0e4" />
+
 # Old TLDR
 I think all the problems were resolved (as much as they could be)
 
