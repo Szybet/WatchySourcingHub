@@ -21,12 +21,12 @@
 
 ### TLDR and latest update [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md#tldr-after-4-months)
 
-SQFMI, the original creator of the watchy started shipping again, further more it's in stock so no more waiting. Well now, the reputation of SQFMI is not that great because of the sooo long shipping delays in the past (see the "Whyyyy" section below) and the rough release of the watchy 3.0 and it's design (Situation explained [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)) but I still think it's better to buy from him, for those reasons:
+SQFMI, the original creator of the watchy started shipping again, further more it's in stock so no more waiting. Well now, the reputation of SQFMI is not that great because of the sooo long shipping delays in the past (see the "Whyyyy" section below) and the rough release of the watchy 3.0 and it's design (Situation explained [here](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)) ~~but I still think it's better to buy from him~~ To be honest, no, he promised, he did not deliver, but here are the old reasons:
 
-- It's always better to support the original creator who open sourced his work (or will eventually) (He did not do that, lol) than a copy who "borrowed" the design and didn't contributed much back
+- ~~It's always better to support the original creator who open sourced his work (or will eventually) (He did not do that, lol) than a copy who "borrowed" the design and didn't contributed much back~~ This statement was written long time ago with the promises of improvements on the watchy v3, none of that happened, read the main watchy v3 doc if you want to know more
 - You buying from mouser / any shop that is not aliexpress really will be a better experience for you - warranty, faster shipping, safer shipping, better packaging, better more quality components (battery, case & strap). Do I really need to explain that aliexpress is the last resort for buying stuff?
-- The V3 has some cool features (mainly for me bigger flash) <sub>and some flaws</sub> If you can get either one of them, then get the newer version (as software support will slowly shift to the newer one)
-- Communication recently improved, I hope I will not need to remove this statement from here
+- The V3 has some cool features (mainly for me bigger flash) (Which is not used by the original firmware anyway) <sub>and some flaws</sub> If you can get either one of them, then get the newer version ~~(as software support will slowly shift to the newer one)~~ But update: That's not true, watchy v2 is still the king
+- ~~Communication recently improved, I hope I will not need to remove this statement from here~~ I did
 
 Also SQFMI about the clones:
 
