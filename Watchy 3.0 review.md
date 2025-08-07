@@ -100,6 +100,11 @@ And people are still breaking their watchies because of the design flaw, just pe
 
 <img width="1154" height="788" alt="image" src="https://github.com/user-attachments/assets/8f535032-9f53-4b56-b3fa-6235e947c0e4" />
 
+Official, moderator approved work around, cutting a part of the battery connector, *This would never start a fire if the user shorted the pins, what the fuck*
+
+<img width="584" height="48" alt="image" src="https://github.com/user-attachments/assets/9081cb14-b4c9-44bf-99b0-80db5605ea1f" />
+
+
 # Old TLDR / Outdated, still not true
 I think all the problems were resolved (as much as they could be)
 
