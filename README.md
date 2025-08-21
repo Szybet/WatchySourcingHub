@@ -55,6 +55,10 @@ A clone of the Watchy, sold on various platforms from probably various sellers, 
     - [AliExpress link](https://www.aliexpress.com/item/1005007684185170.html)
     - Has the cheapest option for an included anodised aluminium case w/ silicone strap (as of time of writing)
     - Battery is ok, but could be better
+  - **Warning** This aliexpress seller (maybe others too) ships watchies without the accelerometer chip. The watchy still works fine without it (if the firmware supports disabling it) simply it doesn't count steps
+ 
+<img width="1904" height="951" alt="image" src="https://github.com/user-attachments/assets/78c49213-092b-4dfa-b748-78b4e2a831cd" />
+
 - Banggood
   - One person bought and is satisfied
   - [A horrible long link](https://usa.banggood.com/Watchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html?af_force_deeplink=true&tags=direct&source_caller=api&pid=direct&is_retargeting=true&shortlink=ecydp3md&af_ad=-&deep_link_value=https%3A%2F%2Fm.banggood.com%2FWatchy-ESP32-Open-Source-E-Watch-WiFi-bluetooth-Programmable-Watch-E-Paper-Watch-with-Open-Source-Hardware-and-Software-p-2004157.html%3Futm_source%3Ddirect%26utm_medium%3Dnone%26utm_content%3D-%26utm_campaign%3Dnone_pps_copy&af_channel=none&c=-&cur_warehouse=CN)
