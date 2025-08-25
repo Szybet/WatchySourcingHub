@@ -1,3 +1,5 @@
+[![](https://dcbadge.limes.pink/api/server/6PUmRXZRGD)](https://discord.gg/6PUmRXZRGD)
+
 # WatchySourcingHub
 
 ### Contents
