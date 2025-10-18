@@ -135,6 +135,7 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 ### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
 - https://github.com/Szybet/Yatchy - :DDD
+- https://github.com/mafik/HeadlessWatchy - The next stage of watch evolution: `mechanical dial => LCD => e-Ink => nothing`
 
 ## Contributed / Other firmwares
 As the creators requested to be here, but I don't have any experience with them, but im good with providing a platform to share them further
