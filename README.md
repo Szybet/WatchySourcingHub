@@ -132,6 +132,7 @@ Using other firmwares than these 4 will get you problems (most probably), these 
 - https://github.com/Szybet/watchy-starfield - Looks awesome
 - https://github.com/OregonJunco/Watchytchi - Cool idea
 - https://github.com/NiklasNeugebauer/minty-os - Abandoned, but the code looks good
+- https://github.com/mafik/HeadlessWatchy - The next stage of watch evolution: `mechanical dial => LCD => e-Ink => nothing`
 ### Other other things
 - https://github.com/Szybet/watchy-scom - For lazy people
 - https://github.com/Szybet/Yatchy - :DDD
