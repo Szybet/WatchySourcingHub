@@ -1,4 +1,5 @@
-[![](https://dcbadge.limes.pink/api/server/6PUmRXZRGD)](https://discord.gg/6PUmRXZRGD)
+[![Chat on Matrix](https://img.shields.io/badge/Chat%20on-Matrix-000000.svg?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/#*atchy-community:matrix.org)
+[![Chat on Discord](https://img.shields.io/badge/Chat%20on-Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.gg/6PUmRXZRGD)
 
 # WatchySourcingHub
 
